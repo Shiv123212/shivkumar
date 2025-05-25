@@ -2,3 +2,4 @@ hello world
 today is wednesday
 -=-=-=-=-=-=-=-=
 belive in my self
+my nikname
